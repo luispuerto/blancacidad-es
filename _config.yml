@@ -27,6 +27,16 @@ author     : Your Name
 analytics:
   google: #Google Analytics tracking code here
 
+# Sections of the site. Set True of False to show them. 
+sections: 
+  services  : True
+  portfolio : True
+  about     : True
+  timeline  : False
+  team      : False
+  clients   : False
+  contact   : True 
+
 collections:
   portfolio:
 

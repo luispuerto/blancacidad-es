@@ -3,9 +3,24 @@ layout: default
 ---
 {% include navheader.html %}
 
-{% include services.html %}
-{% include portfolio_grid.html %}
-{% include timeline.html %}
-{% include team.html %}
-{% include clients.html %}
-{% include contact.html %}
+{% if site.sections.services == true %}
+  {% include services.html %}
+{% endif %}
+{% if site.sections.portfolio == true %}
+  {% include portfolio_grid.html %}
+{% endif %}
+{% if site.sections.timeline == true %}
+  {% include timeline.html %}
+{% endif %}
+{% if site.sections.about == true %}
+  {% include about.html %}
+{% endif %}
+{% if site.sections.team == true %}
+  {% include team.html %}
+{% endif %}
+{% if site.sections.clients == true %}
+  {% include clients.html %}
+{% endif %}
+{% if site.sections.contact == true %}
+  {% include contact.html %}
+{% endif %}
