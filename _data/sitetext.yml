@@ -5,19 +5,79 @@ header:
     buttonlink: "#services"
 
 services:
-    title: "Servicios"
-    text: "Lorem ipsum"
+    title: "Trabajos que ofrecemos"
+    text: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+      Minima maxime quam architecto quo inventore harum ex magni, 
+      dicta impedit.
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Restauración de muebles"
+        desc: >
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+          Minima maxime quam architecto quo inventore harum ex magni, 
+          dicta impedit.
+        icon: fas fa-screwdriver
+
+      - title: "Tratamiento anticarcoma"
+        desc: >
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+          Minima maxime quam architecto quo inventore harum ex magni, 
+          dicta impedit.
+        icon: fas fa-bug
+
+      - title: "Acabados"
+        desc: >
+          En goma laca a muñequilla, encerados, acabados en aceite.   
+
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+          Minima maxime quam architecto quo inventore harum ex magni, 
+          dicta impedit.
+        icon: fas fa-tint
+
+      - title: "Acabados en pintura"
+        desc: >
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+          Minima maxime quam architecto quo inventore harum ex magni, 
+          dicta impedit.
+        icon: fas fa-paint-brush
+
+      - title: "Acabados decorativos"
+        desc: >
+          Papel, tela estarcido.   
+
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+          Minima maxime quam architecto quo inventore harum ex magni, 
+          dicta impedit.
+        icon: fab fa-pagelines
+
+      - title: "Tejido de asientos"
+        desc: >
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+          Minima maxime quam architecto quo inventore harum ex magni, 
+          dicta impedit.
+        icon: fas fa-chair
+
+      - title: "Asientos y trabajos de rejilla"
+        desc: >
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+          Minima maxime quam architecto quo inventore harum ex magni, 
+          dicta impedit. 
+        icon: fas fa-border-all
+
+      - title: "Trabajos en tela"
+        desc:  >
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+          Minima maxime quam architecto quo inventore harum ex magni, 
+          dicta impedit.
+        icon: fas fa-receipt
+
+      - title: "Cursos"
+        desc: >
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+          Minima maxime quam architecto quo inventore harum ex magni, 
+          dicta impedit.
+        icon: fas fa-users
 
 portfolio:
     title: "Portfolio"
