@@ -119,13 +119,22 @@ timeline:
 
 about:
     title: "Sobre mi"
-    subtitle: ""
+    subtitle: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
     text: >
-     ¡Hola! Soy Blanca Yáñez y me dedico a la restauración de muebles desde 1995. Desde que empecé he compaginado la realización de proyectos de restauración para mis clientes con la impartición de cursos.
+      ¡Hola! Soy Blanca Yáñez y me dedico a la restauración de muebles desde 
+      1995. Desde que empecé he compaginado la realización de proyectos de 
+      restauración para mis clientes con la impartición de cursos.  
      
-        También dedico gran parte de mi trabajo al diseño de muebles y decoración. Los cursos que imparto son para todos los niveles, desde personas que quieren llevar acabo un pequeño proyecto, hasta clases más avanzadas incluyendo la explicación de técnicas específicas.
+      También dedico gran parte de mi trabajo al diseño de muebles y decoración. 
+      Los cursos que imparto son para todos los niveles, desde personas que 
+      quieren llevar acabo un pequeño proyecto, hasta clases más avanzadas 
+      incluyendo la explicación de técnicas específicas.  
         
-        Me encanta el mundo de la restauración y nunca paro de aprender nuevas técnicas, usar nuevos materiales y probar productos diferentes. Puedes ver una selección de proyectos que he realizado [aquí](#portfolio). También puedes contactarme [aquí](#contact) si quieres saber más sobre mi trabajo, pedir presupuesto, participar en un curso u organizar uno.
+      Me encanta el mundo de la restauración y nunca paro de aprender nuevas 
+      técnicas, usar nuevos materiales y probar productos diferentes. 
+      Puedes ver una selección de proyectos que he realizado [aquí](#portfolio). 
+      También puedes contactarme [aquí](#contact) si quieres saber más sobre mi 
+      trabajo, pedir presupuesto, participar en un curso u organizar uno.
 
     section: about
 
