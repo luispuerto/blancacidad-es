@@ -5,10 +5,13 @@
     margin: 0 0 15px;
     .portfolio-link {
       position: relative;
-      display: block;
+      display: flex;
       max-width: 400px;
+      max-height: 260px;
       margin: 0 auto;
       cursor: pointer;
+      overflow-y: hidden; 
+      align-items: center;
       .portfolio-hover {
         position: absolute;
         width: 100%;
