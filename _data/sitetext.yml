@@ -1,11 +1,11 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Bienvenidos al Taller de Restauración
+    text: Cladonia
+    button: Que hacemos
     buttonlink: "#services"
 
 services:
-    title: "Services"
+    title: "Servicios"
     text: "Lorem ipsum"
     section: services
     list:
@@ -21,9 +21,9 @@ services:
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Estos son mis útimos projectos."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Cerrar Projecto"
     
 
 timeline:
@@ -58,8 +58,11 @@ timeline:
     end: "Be Part <br> of Our <br> Story!"
 
 about:
-    title: "About Us"
-    text: "our story"
+    title: "Sobre mi"
+    subtitle: ""
+    text: >
+      Que es lo que tengo que poner aquí porque la verdad es que no lo se. 
+      Tengo que poner una cosa o otra?
     section: about
 
 clients:
@@ -118,12 +121,12 @@ team:
             icon: fab fa-linkedin-in
           
 contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contacta"
+    text: "Me puedes llamar o mandar un whatsapp al +34 123456789"
     section: contact
     
 footer:
-    legal: "Privacy Policy"
+    legal: "Política de Privacidad"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"  
