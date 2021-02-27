@@ -1,8 +1,16 @@
+# Created by https://www.toptal.com/developers/gitignore/api/jekyll
+# Edit at https://www.toptal.com/developers/gitignore?templates=jekyll
+
+### Jekyll ###
+
 *.gem
 .bundle
 .sass-cache
 .jekyll-cache
 _site
+.jekyll-metadata
 Gemfile.lock
 unused
 bootstrap-reference.html
+
+# End of https://www.toptal.com/developers/gitignore/api/jekyll
