@@ -83,7 +83,7 @@ portfolio:
     title: "Portfolio"
     text: "Estos son mis útimos projectos."
     section: portfolio
-    closebutton: "Cerrar Projecto"
+    closebutton: "Cerrar"
     
 
 timeline:
