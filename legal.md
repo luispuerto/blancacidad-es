@@ -7,9 +7,9 @@ background: grey
 	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+Esta Politica de Privacidad describe como tu información personal es recolectada, usada y compartida cuando visitas {{ site.title }} (el "Sitio").
 
-**PERSONAL INFORMATION WE COLLECT**
+**INFORMACIÓN PERSONAL QUE RECOLECTAMOS**
 
 {% if site.analytics.google %}
 
@@ -25,14 +25,11 @@ You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaopt
 
 {% else %}
 
-We do not collect any data about you or use any cookies.
+No recolectamos ningún dato personal tuyo o usamos cookies.
 
 {% endif %}
 
-**CHANGES**
+**CONTACTANOS**
 
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
+Para más información sobre nuestras practicas de privacidad o si quires alguna pregunta contactanos a través de nuestro <a href="/#contact">formulario de contacto</a>. 
 
-**CONTACT US**
-
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
