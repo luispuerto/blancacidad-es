@@ -133,12 +133,12 @@ about:
 
       Me encanta el mundo de la restauración, aprender nuevas técnicas, usar 
       nuevos materiales y probar productos diferentes. Visita la seccion de
-      [portfolio](#portfolio) para ver cuales son mis projectos recientes. 
+      [portfolio](#portfolio){: .js-scroll-trigger} para ver cuales son mis projectos recientes. 
 
 
       Si quieres saber más sobre mi trabajo, pedir presupuesto, participar en 
       un curso u organizar uno mandame un mesaje a traves de mi [formulario de 
-      contacto](#contact).
+      contacto](#contact){: .js-scroll-trigger}.
 
     section: about
 
