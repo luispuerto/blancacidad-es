@@ -77,7 +77,7 @@ services:
 
 portfolio:
     title: "Portfolio"
-    text: "Estos son mis útimos projectos."
+    text: "Estos son mis útimos proyectos."
     section: portfolio
     closebutton: "Cerrar"
     
@@ -115,7 +115,7 @@ timeline:
 
 about:
     title: "Sobre mi"
-    subtitle: "Restauración y transformation de muebles"
+    subtitle: "Restauración y transformación de muebles"
     image: assets/img/about.jpg
     text: >
       ¡Hola! Soy Blanca Yáñez y me dedico a la restauración de muebles desde 
@@ -133,11 +133,11 @@ about:
 
       Me encanta el mundo de la restauración, aprender nuevas técnicas, usar 
       nuevos materiales y probar productos diferentes. Visita la seccion de
-      [portfolio](#portfolio){: .js-scroll-trigger} para ver cuales son mis projectos recientes. 
+      [portfolio](#portfolio){: .js-scroll-trigger} para ver cuales son mis proyectos recientes. 
 
 
       Si quieres saber más sobre mi trabajo, pedir presupuesto, participar en 
-      un curso u organizar uno mandame un mesaje a traves de mi [formulario de 
+      un curso u organizar uno mandame un mesaje a través de mi [formulario de 
       contacto](#contact){: .js-scroll-trigger}.
 
     section: about
