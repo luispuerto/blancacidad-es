@@ -7,9 +7,7 @@ header:
 services:
     title: "Que hacemos"
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-      Minima maxime quam architecto quo inventore harum ex magni, 
-      dicta impedit.
+      Trabajando la madera desde el 95.
     section: services
     list:
       - title: "Restauración de muebles"
@@ -117,23 +115,30 @@ timeline:
 
 about:
     title: "Sobre mi"
-    subtitle: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    subtitle: "Restauración y transformation de muebles"
     image: assets/img/about.jpg
     text: >
       ¡Hola! Soy Blanca Yáñez y me dedico a la restauración de muebles desde 
-      1995. Desde que empecé he compaginado la realización de proyectos de 
-      restauración para mis clientes con la impartición de cursos.  
-     
-      También dedico gran parte de mi trabajo al diseño de muebles y decoración. 
-      Los cursos que imparto son para todos los niveles, desde personas que 
-      quieren llevar acabo un pequeño proyecto, hasta clases más avanzadas 
-      incluyendo la explicación de técnicas específicas.  
-        
-      Me encanta el mundo de la restauración y nunca paro de aprender nuevas 
-      técnicas, usar nuevos materiales y probar productos diferentes. 
-      Puedes ver una selección de proyectos que he realizado [aquí](#portfolio). 
-      También puedes contactarme [aquí](#contact) si quieres saber más sobre mi 
-      trabajo, pedir presupuesto, participar en un curso u organizar uno.
+      1995. Además de restaurar también trabajo en la recuperación y reciclaje 
+      de muebles y objetos de madera y puedo aportar criterios sobre diseño y 
+      decoración. 
+
+
+      Desde que empecé he compaginado la realización de proyectos de 
+      restauración para mis clientes con la impartición de cursos. Los cursos 
+      que imparto son para todos los niveles, desde personas que quieren llevar 
+      a cabo un pequeño proyecto, hasta clases más avanzadas incluyendo la 
+      explicación de técnicas específicas
+
+
+      Me encanta el mundo de la restauración, aprender nuevas técnicas, usar 
+      nuevos materiales y probar productos diferentes. Visita la seccion de
+      [portfolio](#portfolio) para ver cuales son mis projectos recientes. 
+
+
+      Si quieres saber más sobre mi trabajo, pedir presupuesto, participar en 
+      un curso u organizar uno mandame un mesaje a traves de mi [formulario de 
+      contacto](#contact).
 
     section: about
 
