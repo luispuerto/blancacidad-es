@@ -120,6 +120,7 @@ timeline:
 about:
     title: "Sobre mi"
     subtitle: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    image: assets/img/about.jpg
     text: >
       ¡Hola! Soy Blanca Yáñez y me dedico a la restauración de muebles desde 
       1995. Desde que empecé he compaginado la realización de proyectos de 

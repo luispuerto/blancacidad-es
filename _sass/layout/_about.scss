@@ -3,4 +3,23 @@ section#about {
   h3.section-subheading {
     margin-bottom: 20px;
   }
+  img {
+      max-width: 95%; 
+      margin: .5em auto;
+      display: block; 
+    }
+  p {
+    text-align: center;
+    margin: .5em;  
+  }
+  @media(min-width:767px) {
+    img {
+      float: left; 
+      max-width: 40%; 
+      margin: 0 .5em; 
+    }
+    p {
+      text-align: left; 
+    }
+  }
 }
