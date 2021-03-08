@@ -14,69 +14,67 @@ services:
     list:
       - title: "Restauración de muebles"
         desc: >
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-          Minima maxime quam architecto quo inventore harum ex magni, 
-          dicta impedit.
+          El criterio que seguimos al restaurar un mueble es de consolidación, 
+          limpieza y reintegración; es decir tratamos de devolver la luz y 
+          esencia de un mueble y su función original, pero sin eliminar su 
+          historia y el paso del tiempo.
         icon: fas fa-screwdriver
 
-      - title: "Tratamiento anticarcoma"
+      - title: "Acabados en restauración"
         desc: >
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-          Minima maxime quam architecto quo inventore harum ex magni, 
-          dicta impedit.
-        icon: fas fa-bug
-
-      - title: "Acabados"
-        desc: >
-          En goma laca a muñequilla, encerados, acabados en aceite.   
-
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-          Minima maxime quam architecto quo inventore harum ex magni, 
-          dicta impedit.
+          Barnizamos a goma laca con muñequilla y acabamos muebles y objetos 
+          con todo tipo de aceites o ceras.
         icon: fas fa-tint
 
-      - title: "Acabados en pintura"
+      - title: "Otros acabados"
         desc: >
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-          Minima maxime quam architecto quo inventore harum ex magni, 
-          dicta impedit.
+          Pintamos muebles a mano con pinturas a la tiza, ecológicas, esmaltes 
+          acrílicos y otros tipos de pinturas. También realizamos entelados, 
+          estarcidos, acabados en papel y muchos otros tipos de acabados 
+          decorativos.
         icon: fas fa-paint-brush
 
-      - title: "Acabados decorativos"
+      - title: "Otras técnicas"
         desc: >
-          Papel, tela estarcido.   
+          Para recuperar o restaurar muebles pueden ser necesarias otro tipo de 
+          técnicas que también realizamos como tratamiento anticarcoma, 
+          encolado, lijado y/o preparación de superficies, teñido con tintes 
+          acrílicos, naturales o pigmentos.
+        icon: fas fa-bug
 
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-          Minima maxime quam architecto quo inventore harum ex magni, 
-          dicta impedit.
-        icon: fab fa-pagelines
+      - title: "Recuperación y reciclaje"
+        desc: >
+          Muebles y otros objetos pueden tener otra oportunidad con funciones o 
+          acabados diferentes; podemos reconvertir una silla en perchero, una 
+          puerta en cabecero o adaptarnos a tus ideas.
+        icon: fas fa-recycle
 
       - title: "Tejido de asientos"
         desc: >
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-          Minima maxime quam architecto quo inventore harum ex magni, 
-          dicta impedit.
+          Realizamos asientos, respaldos y otro tipo de trabajos con todo tipo 
+          de fibras y cuerdas: trabajos de rejilla, encordado en espiguilla, 
+          dameros y otros diseños.
         icon: fas fa-chair
 
-      - title: "Asientos y trabajos de rejilla"
-        desc: >
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-          Minima maxime quam architecto quo inventore harum ex magni, 
-          dicta impedit. 
-        icon: fas fa-border-all
-
       - title: "Trabajos en tela"
-        desc:  >
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-          Minima maxime quam architecto quo inventore harum ex magni, 
-          dicta impedit.
+        desc: >
+          Además de los trabajos asociados a la restauración y acabado de 
+          muebles, también confeccionamos cortinas, cojines y otros asociados 
+          al diseño y decoración del hogar.
         icon: fas fa-receipt
+
+      - title: "Juguetes"
+        desc: >
+          Transformamos muebles en juguetes, por ejemplo, una mesilla en casa 
+          de muñecas, tienda o cocinita. También diseñamos cuentos en tela y 
+          otros juguetes artesanos.
+        icon: fas fa-car-side
 
       - title: "Cursos"
         desc: >
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-          Minima maxime quam architecto quo inventore harum ex magni, 
-          dicta impedit.
+          Además del trabajo de taller, también impartimos cursos de 
+          restauración. Algunos de nuestros cursos se han desarrollado para 
+          asociaciones, ayuntamientos, empresas o pequeños grupos de alumnos. 
         icon: fas fa-users
 
 portfolio:
